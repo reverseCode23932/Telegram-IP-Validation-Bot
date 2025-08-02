@@ -16,7 +16,7 @@ This is an asynchronous Telegram bot that receives an IP address or domain name 
 
 Install dependencies:
 ```
-pip install -r requierements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
